@@ -1,5 +1,9 @@
 ### Xin chào mọi người mình là Thanh Phú👋
-
+- Mình hiện đang sinh sống tại Thành Phố Ngã Bảy, Hậu Giang.
+- Mình là người trái nghành, học xong 12 thì mình nhập ngũ, khi trở về bên cạnh việc đi làm các công việc bên ngoài, thì song song đó mình tìm hiểu và học lập trình.
+- Hành trình học lập trình của mình chủ yếu là mình tìm hiểu qua các kênh chia sẻ kiến thức lập trình, các tài liệu trên mạng internet. Và mình có tham gia 1 hệ thống đào tạo lập trình online có tên là UNITOP.
+- Mong muốn hiện tại của mình là có một môi trường để mình có thể được làm việc, cống hiến và học hỏi, để theo đuổi con đường mình đã chọn.
+- Cảm ơn mọi đã xem!.
 <!--
 **PhuJs/PhuJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
