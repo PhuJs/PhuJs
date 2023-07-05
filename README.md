@@ -9,7 +9,7 @@
 - Backend: C, PHP.
   + Framework: Laravel.
 - Database: MySQL.
-- Rất trâng trọng nhận được cơ hội giúp đỡ của mọi người. Mình xin cảm ơn! 
+- Rất trân trọng được hợp tác và làm việc với mọi người. Xin cảm ơn!
 <!--
 **PhuJs/PhuJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
